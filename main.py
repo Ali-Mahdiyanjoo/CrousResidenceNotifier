@@ -31,7 +31,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
             text=(
                 "🎉 *Bienvenue dans Résidences CROUS !* 🎓\n\n"
                 "Ce bot est conçu pour vous aider à suivre en temps réel 🕒 les logements disponibles 🏠 "
-                "dans les résidences CROUS à Nancy. Vous recevrez des mises à jour toutes les 15 minutes. 🔄\n\n"
+                "dans les résidences CROUS à Strasbourg. Vous recevrez des mises à jour toutes les 15 minutes. 🔄\n\n"
                 "📜 *Commandes disponibles :*\n\n"
                 "    /help : 📖 Affiche la liste des commandes disponibles.\n"
                 "    /start : ✅ Inscrivez-vous pour recevoir les notifications.\n"

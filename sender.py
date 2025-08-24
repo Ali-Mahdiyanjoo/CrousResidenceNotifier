@@ -42,7 +42,7 @@ def build_update_message():
         residence_data = {}
 
     total_houses = sum(residence_data.values())
-    message = "🏠 *Mises à jour des résidences CROUS Nancy :*\n"
+    message = "🏠 *Mises à jour des résidences CROUS Strasbourg :*\n"
     message += f"🔢 *Nombre total de logements disponibles : {total_houses}*\n\n"
 
     for residence, count in residence_data.items():
