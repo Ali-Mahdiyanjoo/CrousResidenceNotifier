@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 import asyncio
 
 # Telegram bot token
-TELEGRAM_BOT_TOKEN = '7306856876:AAEl8748X64LsxrfDU09WZJ0_cDyrRSKu_8'
+TELEGRAM_BOT_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
 CHAT_IDS_FILE = "/PATH/TO/chat_ids.json"
 RESIDENCE_DATA_FILE = "/PATH/TO/residence_data.json"
 CROUS_URL = "https://trouverunlogement.lescrous.fr/tools/37/search?bounds=6.134292_48.7092349_6.2126188_48.666906"

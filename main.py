@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 
 # Telegram bot token
-TELEGRAM_BOT_TOKEN = 'YOUR_TELEGRAM_TOKEN'
+TELEGRAM_BOT_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
 CHAT_IDS_FILE = "/PATH/TO/chat_ids.json"
 LOCK_FILE = "/tmp/crous_main.lock"  # Lock file to prevent multiple instances
 
