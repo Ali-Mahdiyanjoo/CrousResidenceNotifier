@@ -9,8 +9,7 @@ import asyncio
 TELEGRAM_BOT_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
 CHAT_IDS_FILE = "/PATH/TO/chat_ids.json"
 RESIDENCE_DATA_FILE = "/PATH/TO/residence_data.json"
-CROUS_URL = "https://trouverunlogement.lescrous.fr/tools/37/search?bounds=6.134292_48.7092349_6.2126188_48.666906"
-
+CROUS_URL = "https://trouverunlogement.lescrous.fr/tools/41/search?bounds=7.6881371_48.6461896_7.8360646_48.491861"
 # Function to scrape CROUS listings
 def scrape_residences():
     response = requests.get(CROUS_URL)

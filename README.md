@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/Automation-Cron-informational?style=flat&logo=linux&logoColor=white&color=blue)
     
 ## Description 
-Résidences CROUS Notifier est un bot Telegram conçu pour surveiller et notifier en temps réel les logements disponibles dans les résidences CROUS à Nancy. Ce bot envoie des mises à jour automatiques toutes les 15 minutes avec le nombre total de logements disponibles par résidence et vous permet de rester informé(e) sans effort.
+Résidences CROUS Notifier est un bot Telegram conçu pour surveiller et notifier en temps réel les logements disponibles dans les résidences CROUS à Strasbourg. Ce bot envoie des mises à jour automatiques toutes les 15 minutes avec le nombre total de logements disponibles par résidence et vous permet de rester informé(e) sans effort.
 
 ✨ **Fonctionnalités principales** :
 - 🔔 Notifications automatiques pour chaque résidence sélectionnée.
